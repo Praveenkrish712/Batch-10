@@ -24,3 +24,29 @@ HTML - Hyper text Markup language
 9) tables - tr, th, td
 
 10) Forms - Input and label
+
+11) Sematic tags - header, footer, section, nav and main
+
+12) Media Elements
+ Audio and Video
+
+
+CSS - Cascading Style Sheet
+
+1) Types of CSS
+i - Inline
+ii - Internal
+iii - External
+inline > internal > external
+
+2) CSS Syntax
+selector{
+    property: value;
+}
+
+3) Types of Selector
+i - Element selector - (h1) , (h2), (p)
+ii - Class selector - (.) Multiple time we can use that name
+iii - Id selector - (#) unique only one time we can use that name
+iv - Universal selector - (*) to apply the entire site.
+v - Group selector - same class or id name and different tags can change the same style we use group selector.

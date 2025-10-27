@@ -1,0 +1,22 @@
+*{
+    /* background-color: red; */
+}
+
+h1{
+    color: yellow;
+}
+
+h2{
+    color: red;
+}
+
+.Name > h1,
+.Name > h2,
+.Name > h3,
+.Name > h4{
+    color: green;
+}
+
+#class > h1{
+    color: hotpink;
+}
