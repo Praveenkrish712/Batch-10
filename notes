@@ -1,52 +1,75 @@
 HTML - Hyper text Markup language
 
-* To create the Web pages
-* Its not a programming language
-* Its a Markup Language
-* Every website can start with HTML
+- To create the Web pages
+- Its not a programming language
+- Its a Markup Language
+- Every website can start with HTML
 
-1) Heading - h is h1 to h6
+1. Heading - h is h1 to h6
 
-2) Paragraph - p
+2. Paragraph - p
 
-3) Hr
+3. Hr
 
-4) br
+4. br
 
-5) Text Formatting - b or strong, u, mark, Sub and Sup......
+5. Text Formatting - b or strong, u, mark, Sub and Sup......
 
-6) Anchor tag - a
+6. Anchor tag - a
 
-7) Image tag - img
+7. Image tag - img
 
-8) list - Order list and unorder list
+8. list - Order list and unorder list
 
-9) tables - tr, th, td
+9. tables - tr, th, td
 
-10) Forms - Input and label
+10. Forms - Input and label
 
-11) Sematic tags - header, footer, section, nav and main
+11. Sematic tags - header, footer, section, nav and main
 
-12) Media Elements
- Audio and Video
-
+12. Media Elements
+    Audio and Video
 
 CSS - Cascading Style Sheet
 
-1) Types of CSS
-i - Inline
-ii - Internal
-iii - External
-inline > internal > external
+1. Types of CSS
+   i - Inline
+   ii - Internal
+   iii - External
+   inline > internal > external
 
-2) CSS Syntax
-selector{
-    property: value;
-}
+2. CSS Syntax
+   selector{
+   property: value;
+   }
 
-3) Types of Selector
-i - Element selector - (h1) , (h2), (p)
-ii - Class selector - (.) Multiple time we can use that name
-iii - Id selector - (#) unique only one time we can use that name
-iv - Universal selector - (*) to apply the entire site.
-v - Group selector - same class or id name and different tags can change the same style we use group selector.
+3. Types of Selector
+   i - Element selector - (h1) , (h2), (p)
+   ii - Class selector - (.) Multiple time we can use that name
+   iii - Id selector - (#) unique only one time we can use that name
+   iv - Universal selector - (\*) to apply the entire site.
+   v - Group selector - same class or id name and different tags can change the same style we use group selector.
+
+4. Colors and background
+   background-color: red;
+   color: white;
+   background-image: url(./Assets/Spider-Man.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+5. Text Styling
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 40px;
+   text-align: center;
+   text-transform: uppercase;
+   text-decoration: underline;
+   font-weight: 100;
+   line-height: 1;
+   letter-spacing: 1px;
+
+6. Box Modeling
+   margin
+   border
+   padding
+   content

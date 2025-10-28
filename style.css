@@ -1,5 +1,7 @@
 *{
-    /* background-color: red; */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 h1{
@@ -9,14 +11,48 @@ h1{
 h2{
     color: red;
 }
-
+/* 
 .Name > h1,
 .Name > h2,
 .Name > h3,
 .Name > h4{
     color: green;
+} */
+
+.Name > h1{
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: 100;
+    line-height: 1;
+    letter-spacing: 1px;
 }
 
 #class > h1{
     color: hotpink;
+}
+
+p{
+    background-color: red;
+    color: white;
+    background-image: url(./Assets/Spider-Man.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: hotpink;
+    /* padding-left: 80px;
+    padding-top: 50px; */
+    padding: 20px 40px 40px 80px;
+    /* margin-left: 40px;
+    margin-top: 50px; */
+    margin: 20px 50px 60px 70px;
+    border: 10px solid black;
 }
