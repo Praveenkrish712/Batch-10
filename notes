@@ -73,3 +73,13 @@ CSS - Cascading Style Sheet
    border
    padding
    content
+
+7. Flex (Display)
+  1. Direction - row, row-reverse, column, column-reverse
+  2. Justify-content - (X) - start, center, end, space-around, space-evenly, space-between
+  3. Align-items - (Y) - start, end, center
+  4. Flex-wrap - wrap and wrap-reverse
+  5. Align-content - (Y) (only flex wrap is enable then only align-content will work) -  start, center, end, space-around, space-evenly, space-between
+  6. Flex(on items) - flex-1 - if you want to grow then we go with flex-1
+  7. order - Change the Visual order of the flex items
+  8. Gap - to give the values like Px,cm,m,%....
