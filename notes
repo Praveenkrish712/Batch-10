@@ -83,3 +83,12 @@ CSS - Cascading Style Sheet
   6. Flex(on items) - flex-1 - if you want to grow then we go with flex-1
   7. order - Change the Visual order of the flex items
   8. Gap - to give the values like Px,cm,m,%....
+
+8. Position
+  1. Static (default)
+  2. Relative
+  3. Absolute
+  4. Fixed
+  5. Sticky
+
+9. Grid   
