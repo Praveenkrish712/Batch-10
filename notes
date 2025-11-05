@@ -94,4 +94,11 @@ CSS - Cascading Style Sheet
 9. Grid 
   2 - dimensional layout system
   
-    
+10. Transition and Animation
+   Transition - Whenever you hover that it will act
+   Animation - Just Refresh the sit the changes will act
+
+11. Media Queries or Responsive Design
+  Mobile      - 320px to 600px
+  tab         - 601px to 800px
+  lap/desktop - above 801px
